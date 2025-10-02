@@ -26,4 +26,4 @@ Her zaman yeni teknolojiler öğrenmeye ve projeler geliştirmeye açığım. �
 
 ## 📫 Bana Ulaş
 - [LinkedIn](https://www.linkedin.com/in/ilyasturanli/)
-- [E-posta](mailto:ilyas@example.com)
+- [E-posta](mailto:ilyasturanli2018@hotmail.com)
