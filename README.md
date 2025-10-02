@@ -1,6 +1,6 @@
 # Merhaba, ben Ilyas! 👋
 
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="400"/>
 
 ## Hakkımda
 Ben bir yazılım geliştiricisiyim ve özellikle web geliştirme, veritabanı yönetimi ve programlama dilleri üzerine çalışıyorum.  
