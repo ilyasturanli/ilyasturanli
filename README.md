@@ -26,8 +26,12 @@ Her zaman yeni teknolojiler öğrenmeye ve projeler geliştirmeye açığım. �
 
 ## 📫 Bana Ulaş
 <p align="left">
-  - [LinkedIn](https://www.linkedin.com/in/ilyasturanli/)
-  - [E-posta](mailto:ilyasturanli2018@hotmail.com)
+  <a href="https://www.linkedin.com/in/ilyasturanli/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:ilyasturanli2018@hotmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail-original.svg" alt="E-posta" width="40" height="40"/>
+  </a>
 </p>
   
 
