@@ -3,8 +3,7 @@
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="400"/>
 
 ## Hakkımda
-Ben bir yazılım geliştiricisiyim ve özellikle web geliştirme, veritabanı yönetimi ve programlama dilleri üzerine çalışıyorum.  
-Her zaman yeni teknolojiler öğrenmeye ve projeler geliştirmeye açığım. 🚀
+
 
 ## 💻 Bildiğim Diller ve Teknolojiler
 <p align="left">
